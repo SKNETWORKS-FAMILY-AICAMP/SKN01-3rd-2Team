@@ -71,7 +71,6 @@
 <img src="img/front_ci.png">
 
 ### 2. scp 방식으로 pem키 보내기 
-<img src="img/scp.png">
 
 ### 3. build 파일 웹 상에서 docker-compose up 실행
 <img src="img/vue_docker.png">
